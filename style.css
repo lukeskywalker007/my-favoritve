@@ -1,0 +1,35 @@
+.menu{
+    list-style: none;
+    font-family: 'Estonia';
+    cursor: pointer;
+    color: black;
+    z-index: 99999;
+    position: absolute;
+    right: 10px;
+top: 10px;
+background-color: teal;
+
+}
+.same{
+    float: left;
+    font-family: 'Estonia';
+padding-left: 10px;
+padding-right: 10px;
+}
+#mymenu{
+    font-family: 'Estonia';  
+}
+.home{
+    padding-top: 70px;
+    font-size: larger;
+    color: crimson;
+}
+body{
+background-color: gold;
+padding-top: 100px; 
+font-family: 'Estonia';   
+}
+.same:hover
+{
+    background-color: turquoise;
+}
